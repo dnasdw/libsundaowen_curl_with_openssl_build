@@ -1,0 +1,6 @@
+[submodule "target"]
+	path = target
+	url = https://github.com/dnasdw/libsundaowen_curl_with_openssl.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/dnasdw/libsundaowen_openssl.git
